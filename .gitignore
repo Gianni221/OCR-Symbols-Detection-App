@@ -1,3 +1,7 @@
+openCVLibrary3413/
+jnilibs/
+res/
+
 # Built application files
 *.apk
 *.aar
@@ -32,6 +36,8 @@ proguard/
 
 # Android Studio Navigation editor temp files
 .navigation/
+
+
 
 # Android Studio captures folder
 captures/
